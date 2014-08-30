@@ -23,3 +23,10 @@ https://groups.google.com/forum/#!forum/mozilla.dev.b2g
 
 https://groups.google.com/forum/#!topic/mozilla.mozillians/gzekUpLo0MU
 
+### tcp
+
+https://wiki.mozilla.org/FirefoxOS/TCP/Flashing_the_Flatfish_bootloader
+
+### firefoxos wiki
+
+https://wiki.mozilla.org/FirefoxOS
