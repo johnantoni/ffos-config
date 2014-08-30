@@ -30,3 +30,7 @@ https://wiki.mozilla.org/FirefoxOS/TCP/Flashing_the_Flatfish_bootloader
 ### firefoxos wiki
 
 https://wiki.mozilla.org/FirefoxOS
+
+### installing
+
+https://developer.mozilla.org/en-US/Firefox_OS/Installing_on_a_mobile_device#Configuring_the_udev_rule_for_your_device
