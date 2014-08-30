@@ -33,4 +33,4 @@ https://wiki.mozilla.org/FirefoxOS
 
 ### installing
 
-https://developer.mozilla.org/en-US/Firefox_OS/Installing_on_a_mobile_device#Configuring_the_udev_rule_for_your_device
+https://developer.mozilla.org/en-US/Firefox_OS/Installing_on_a_mobile_device
