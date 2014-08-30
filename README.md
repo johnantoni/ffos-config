@@ -3,6 +3,10 @@ firefoxos
 
 notes and work on firefoxos
 
+### flame info
+
+https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/Flame
+
 ### bugzilla
 
 #### adb devices empty on os 2.0
