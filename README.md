@@ -13,9 +13,12 @@ ok on 2.1, unresponsive on 2.0
 
 ### adb
 
+    adb devices
+    adb kill-server
+
 port forward
 
-adb forward tcp:6000 tcp:6000
+    adb forward tcp:6000 tcp:6000
 
 ### irc
 
@@ -33,4 +36,5 @@ https://wiki.mozilla.org/FirefoxOS
 
 ### installing
 
+http://kaustavdm.in/2014/08/connect-firefox-os-spreadtrum-device-adb.html
 https://developer.mozilla.org/en-US/Firefox_OS/Installing_on_a_mobile_device
