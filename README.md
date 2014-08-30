@@ -9,6 +9,8 @@ notes and work on firefoxos
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1060427
 
+ok on 2.1, unresponsive on 2.0
+
 ### adb
 
 port forward
