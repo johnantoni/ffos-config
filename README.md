@@ -24,6 +24,10 @@ port forward
 
     adb forward tcp:6000 tcp:6000
 
+### fixing adb
+
+http://stackoverflow.com/questions/7135999/adb-not-finding-my-device-phone-macos-x
+
 ### irc
 
 https://groups.google.com/forum/#!forum/mozilla.dev.b2g
