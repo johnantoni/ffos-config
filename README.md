@@ -19,5 +19,7 @@ adb forward tcp:6000 tcp:6000
 
 ### irc
 
+https://groups.google.com/forum/#!forum/mozilla.dev.b2g
+
 https://groups.google.com/forum/#!topic/mozilla.mozillians/gzekUpLo0MU
 
