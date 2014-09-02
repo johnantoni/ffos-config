@@ -28,6 +28,16 @@ port forward
 
 http://stackoverflow.com/questions/7135999/adb-not-finding-my-device-phone-macos-x
 
+If you need adb back for
+any reason (like, reflashing the 2.1 to have it working again in normal
+condition) you can reboot in recovery mode, do a factory reset (I'm not sure
+this step it's actually required) and when you reboot after that, type this on
+your linux console:
+
+    adb wait-for-device && adb root && adb wait-for-device && adb shell stop b2g
+
+this way you can use adb to shallow flash another version of b2g.
+
 ### irc
 
 https://groups.google.com/forum/#!forum/mozilla.dev.b2g
