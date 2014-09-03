@@ -13,12 +13,16 @@ https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/Flame
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1060427
 
-ok on 2.1, unresponsive on 2.0
+ok on 2.1, unresponsive on 2.0 (update, now fixed)
 
 ### adb
 
     adb devices
     adb kill-server
+
+or add to alias
+
+    flushadb="adb kill-server && adb start-server"
 
 port forward
 
