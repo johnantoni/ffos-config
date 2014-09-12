@@ -7,6 +7,10 @@ notes and work on firefoxos
 
 https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/Flame
 
+### reboot in recovery mode
+
+press power button + volume up button
+
 ### bugzilla
 
 #### adb devices empty on os 2.0
